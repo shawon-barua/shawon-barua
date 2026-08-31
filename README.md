@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Shawon Barua</h1>
-  <p><strong>Sr. QA Automation Engineer & SDET • 12+ Years Experience • Tokyo, Japan / Global</strong></p>
+  <p><strong>Sr. QA Automation Engineer & SDET • 11+ Years Experience • Dhaka, Bangladesh / Global</strong></p>
   
   <p>
     <a href="https://shawon-barua.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-4F46E5?style=flat-square&logo=safari&logoColor=white" /></a>
