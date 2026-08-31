@@ -1,11 +1,11 @@
 <div align="center">
   <h1>👋 Hi, I'm Shawon Barua</h1>
-  <p><strong> QA/Automation Expert • 11+ Years Experience • Dhaka, Bangladesh / Global</strong></p>
+  <p><strong>Sr. QA Automation Engineer & SDET • 12+ Years Experience • Tokyo, Japan / Global</strong></p>
   
   <p>
     <a href="https://shawon-barua.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-4F46E5?style=flat-square&logo=safari&logoColor=white" /></a>
     <a href="https://linkedin.com/in/shawon-barua"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:shawon.cse.ku@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shawon.cse.ku@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     <a href="https://shawon-barua.github.io/Portfolio/shawon_resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-red?style=flat-square" /></a>
   </p>
 </div>
@@ -44,5 +44,5 @@ pie title Project & Skill Focus Distribution (%)
 ---
 
 <div align="center">
-  📫 <strong>Let's Collaborate:</strong> <a href="mailto:shawon.cse.ku@gmail.com">shawon.cse.ku@gmail.com</a> | <a href="https://www.linkedin.com/in/shawon-barua/">linkedin.com/in/shawon-barua</a> | <a href="https://shawon-barua.github.io/Portfolio/">shawon-barua.github.io/Portfolio</a>
+  📫 <strong>Let's Collaborate:</strong> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shawon.cse.ku@gmail.com">shawon.cse.ku@gmail.com</a> | <a href="https://www.linkedin.com/in/shawon-barua/">linkedin.com/in/shawon-barua</a> | <a href="https://shawon-barua.github.io/Portfolio/">shawon-barua.github.io/Portfolio</a>
 </div>
