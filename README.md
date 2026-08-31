@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Shawon </h1>
-  <p><strong>QA Expert Engineer & SDET • 11+ Years Experience • Bangladesh / Global</strong></p>
+  <h1>👋 Hi, I'm Shawon Barua</h1>
+  <p><strong>Sr. QA Automation Engineer & SDET • 12+ Years Experience • Tokyo, Japan / Global</strong></p>
   
   <p>
     <a href="https://shawon-barua.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-4F46E5?style=flat-square&logo=safari&logoColor=white" /></a>
@@ -26,25 +26,20 @@
 ```text
 • Test Automation : Playwright, Cypress, Selenium WebDriver, Appium (iOS & Android), REST Assured, Postman
 • Performance & QA: Apache JMeter, Gatling, OWASP ZAP, Cucumber BDD, TestNG, JUnit
-• Languages       : Java, JavaScript, TypeScript, Python, Swift, SQL
+• Languages       : Java, JavaScript, TypeScript, Python, Swift, SQL, R
 • DevOps & Cloud  : GitHub Actions, Jenkins, Docker, Kubernetes, AWS, GCP
 ```
 
 ---
 
-### 📂 Featured Repositories
+### 📊 Project & Expertise Breakdown
 
-- 🌐 [**Playwright-Pom**](https://github.com/shawon-barua/Playwright-Pom) — Clean Page Object Model test automation framework in TypeScript.
-- 🔌 [**API-RestAssured-TestNG**](https://github.com/shawon-barua/API-RestAssured-TestNG-Automation) — Enterprise RESTful API test suite with schema validation & reporting.
-- 📱 [**Android_iOS-App-Automation**](https://github.com/shawon-barua/Android_iOS-App-Automation) — Cross-platform native mobile test framework with Appium & Java.
-- 🌲 [**cypress-pom**](https://github.com/shawon-barua/cypress-pom) — Fast, maintainable end-to-end web testing suite using Cypress.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawon-barua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon-barua&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+```mermaid
+pie title Project & Skill Focus Distribution (%)
+    "Test Automation (Web, Mobile, API)" : 10
+    "Data Science & AI Analytics" : 5
+    "QA Strategy & Engineering" : 3
+```
 
 ---
 
